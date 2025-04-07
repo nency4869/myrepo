@@ -5,3 +5,4 @@ for(int i = 2; i <= 10; ++i) {
 console.log(fibo[9])
 
 console.log(123)
+alert('Hello')
